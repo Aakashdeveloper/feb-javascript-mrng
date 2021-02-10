@@ -36,6 +36,7 @@ out
 
 var a = prompt("Enter First Number");
 var b = prompt("Enter Second Number");
-var out = Number(a)+Number(b)
+var out = parseInt(a)+parseInt(b)
+parseInt(a+b) == 1020
 out
 30
