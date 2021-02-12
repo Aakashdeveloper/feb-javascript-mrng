@@ -119,3 +119,51 @@ city.slice(-2,1)
 ""
 city.slice(-2,-3)
 ""
+
+
+var a = "i am learning javascript"
+a.replace('javascript','JS')
+"i am learning JS"
+var a = "Js i am learning javascript"
+undefined
+var a = "javascript i am learning javascript"
+undefined
+a.replace('javascript','js')
+"js i am learning javascript"
+a.replace(/javascript/g,'js')
+"js i am learning js"
+
+
+var city = "  Amsterdam . "
+var city = "  Amsterdam . "
+undefined
+city.replace(' ','')
+" Amsterdam . "
+city.replace(/ /g,'')
+"Amsterdam."
+
+var a = "Hi "
+var b = "JavaScript"
+var c=" Code"
+undefined
+a.concat(b)
+"Hi JavaScript"
+a.concat(b,c)
+"Hi JavaScript Code"
+c.concat(a,b)
+" CodeHi JavaScript"
+
+var a = "Hi"
+undefined
+a.fixed(1)
+"<tt>Hi</tt>"
+a.fixed()
+"<tt>Hi</tt>"
+a.fixed(7867678)
+"<tt>Hi</tt>"
+a.strike()
+"<strike>Hi</strike>"
+a.bold()
+"<b>Hi</b>"
+a.repeat(4)
+"HiHiHiHi"

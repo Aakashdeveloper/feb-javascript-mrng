@@ -1,0 +1,14 @@
+localStorage.setItem('tripid',3433)
+undefined
+localStorage.getItem('tripid')
+"3433"
+localStorage.removeItem('tripid')
+undefined
+localStorage.setItem('tripid',3433)
+undefined
+localStorage.removeItem('tripid')
+undefined
+localStorage.removeItem('tripid')
+undefined
+localStorage.setItem('tripid',3433)
+undefined
