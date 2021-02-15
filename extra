@@ -8,11 +8,11 @@ Ecma 7
 > String
 > Math
 > String literals
-////////////////////
 > localstorage
 > sessionStorage
 > cookies
 > github
+////////////////////
 > condition
 > if else
 > ternery Operations
@@ -57,3 +57,4 @@ Ecma 7
 > fabonicci
 > factorial
 > palindrome
+
