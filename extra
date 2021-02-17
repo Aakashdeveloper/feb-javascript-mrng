@@ -15,16 +15,17 @@ Ecma 7
 > condition
 > if else
 > ternery Operations
-////////////////////
 > switch
 > Date
+> let, const
+////////////////////
 > array
 > regex
 > loops
 > Functions
 > Es6
     > maps,filter
-> let, const
+
 > Clousers
 > Hoisting
 > JSON
