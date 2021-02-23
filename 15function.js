@@ -58,3 +58,22 @@ function isEven(userInput){
     
     return output
 }
+
+function add(a,b){
+    return a+b
+}
+
+add(1,2)
+
+// method
+var add = function(a,b){
+    return a+b
+}
+
+add(1,2)
+
+
+//arrow es6
+var add = (a,b) => {return a+b}
+add(1,2)
+
