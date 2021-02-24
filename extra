@@ -24,11 +24,11 @@ Ecma 7
 > loops
 > Es6
     > maps,filter
-////////////////////
 > Clousers
 > Hoisting
-> object 
 > JSON
+////////////////////
+> object 
 > Es6
     > Transpile
     > import export
@@ -44,18 +44,22 @@ Ecma 7
 
 > Calc
 > Geolocation
+> screen
+
 > Form validation
 > Event
+> Call/Apply
+
 > currenyConvertor
 > promis
 > async await
-> screen
+> Baisc Jquery
+
 > Dynamic DropDown
 > Progress bar
-> Call/Apply
 > Weather application
 > ajax
-> Baisc Jquery
+
 > DataTables
 > fabonicci
 > factorial
