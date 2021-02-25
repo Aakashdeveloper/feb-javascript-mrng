@@ -27,21 +27,18 @@ Ecma 7
 > Clousers
 > Hoisting
 > JSON
-////////////////////
-> object 
 > Es6
     > Transpile
     > import export
 > package.JSON
 > npm
-
+> object 
 > this 
 > Prototypes
 > Es6
     > classes
+////////////////////
 > DoM
-///////
-
 > Calc
 > Geolocation
 > screen
@@ -65,3 +62,10 @@ Ecma 7
 > factorial
 > palindrome
 
+/////////
+step for package.JSON
+/////////////
+> install nodejs(https://nodejs.org/en/)
+> go inside the folder with terminal
+> type npm init -y
+> npm i @babel/core @babel/preset-env @babel/register
