@@ -1,0 +1,10 @@
+window.innerHeight
+325
+window.innerWidth
+1440
+screen.heigh
+undefined
+screen.height
+900
+screen.width
+1440

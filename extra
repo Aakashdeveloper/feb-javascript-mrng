@@ -37,26 +37,24 @@ Ecma 7
 > Prototypes
 > Es6
     > classes
-////////////////////
 > DoM
 > Calc
-> Geolocation
-> screen
-
-> Form validation
-> Event
-> Call/Apply
-
 > currenyConvertor
 > promis
 > async await
-> Baisc Jquery
+> screen
+////////////////
+> Geolocation
+> Form validation
+> Event
 
+> Call/Apply
+> Baisc Jquery
 > Dynamic DropDown
 > Progress bar
+
 > Weather application
 > ajax
-
 > DataTables
 > fabonicci
 > factorial
