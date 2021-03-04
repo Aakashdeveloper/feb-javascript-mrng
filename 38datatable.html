@@ -1,0 +1,50 @@
+<html>
+    <head>
+        <title>Dashboard</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js"></script>
+        <!-- For DataTables -->
+        <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.16/css/jquery.dataTables.css">
+        <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.16/js/jquery.dataTables.js"></script>
+    </head>
+    <body>
+        <div class="container">
+            <h1>DataTable</h1>
+            <table id="mytable" class="table table-striped">
+                <thead class="thead-dark">
+                    <tr>
+                        <th>City</th>
+                        <th>Country</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Amsterdam</td>
+                        <td>Netherlands</td>
+                    </tr>
+                    <tr>
+                        <td>Mumbai</td>
+                        <td>India</td>
+                    </tr>
+                    <tr>
+                        <td>London</td>
+                        <td>England</td>
+                    </tr>
+                    <tr>
+                        <td>Paris</td>
+                        <td>France</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <script>
+            $(document).ready(function(){
+                $('#mytable').DataTable()
+            })
+        </script>
+    </body>
+</html>
